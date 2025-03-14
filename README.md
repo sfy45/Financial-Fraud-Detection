@@ -1,4 +1,4 @@
-# Financial Fraud Detection System
+#💳Financial Fraud Detection System
 
 ## Overview
 
@@ -19,7 +19,7 @@ The Financial Fraud Detection System is a comprehensive machine learning applica
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/financial-fraud-detection.git
+   git clone https://github.com/sfy45/financial-fraud-detection.git
    cd financial-fraud-detection
    ```
 
