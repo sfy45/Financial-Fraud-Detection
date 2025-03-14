@@ -15,6 +15,9 @@ The Financial Fraud Detection System is a comprehensive machine learning applica
 - **Performance Metrics**: Detailed performance metrics including accuracy, precision, recall, F1 score, and AUC.
 - **Download Results**: Download the predictions and high-risk transactions as CSV files.
 
+## 🌐 Demo
+🔗 **Live App:** [Financial Fraud Detection System](https://huggingface.co/spaces/sfy45/Financial-Fraud-Detection)
+
 ## Installation
 
 1. **Clone the Repository**:
