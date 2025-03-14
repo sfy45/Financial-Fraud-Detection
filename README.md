@@ -87,12 +87,6 @@ financial-fraud-detection/
 If you have a contribution to make, feel free to submit issues or pull requests. PRs are more than welcome!
 
 
-## Acknowledgments
-
-- **Streamlit**: For providing an excellent framework for building data applications.
-- **Scikit-learn**: For comprehensive machine learning tools.
-- **Plotly**: For creating interactive and beautiful visualizations.
-
 ## Contact
 
 For any issues or suggestions, feel free to reach out: 📧 sophiasad1421@gmail.com
